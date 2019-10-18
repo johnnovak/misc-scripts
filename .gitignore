@@ -1,0 +1,5 @@
+nimcache/
+*.swp
+*~
+*.pyc
+.DS_Store
